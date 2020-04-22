@@ -1,0 +1,21 @@
+{
+    "name": "zphpsoft/tools",
+    "description": "PHP工具组件，包含一些常用小功能",
+    "type": "library",
+    "require": {
+        "php": ">=5.6"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "martinzhang",
+            "email": "zzx0426@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "zphpsoft\\tools\\": "src"
+        }
+    }
+}
