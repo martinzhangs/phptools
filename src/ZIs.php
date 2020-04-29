@@ -6,7 +6,7 @@ namespace zphpsoft\tools;
 /**
  * PHP开发随手使用工具包 - 判断篇
  * User: martinzhang
- * Date: 2016/4/22
+ * Date: 2018/4/22
  * Time: 11:39
  */
 class ZIs
